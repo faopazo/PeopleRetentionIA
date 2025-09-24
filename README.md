@@ -1,2 +1,16 @@
 # PeopleRetentionIA
-Proyecto prototipo para analizar y predecir la rotación de personal (employee attrition) con enfoque en People Analytics. Incluye scripts reproducibles para preprocesamiento, entrenamiento de modelos, evaluación y una app interactiva con Streamlit para explorar resultados y hacer predicciones.
+
+
+Prototipo para People Analytics: análisis y predicción de rotación (attrition).
+
+
+## Cómo usar
+
+
+1. Clonar el repo
+2. Crear entorno e instalar dependencias:
+```bash
+python -m venv .venv
+source .venv/bin/activate # mac/linux
+.\.venv\Scripts\activate # windows
+pip install -r requirements.txt
