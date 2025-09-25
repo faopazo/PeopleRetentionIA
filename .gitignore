@@ -1,9 +1,5 @@
-__pycache__/
-*.pyc
-.env
-.env*
-/data/
-/models/
-*.pkl
-*.joblib
-.ipynb_checkpoints/
++ data/*.csv
++ models/
++ __pycache__/
++ *.pyc
++ .DS_Store
