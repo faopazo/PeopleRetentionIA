@@ -1,6 +1,6 @@
 # PeopleRetentionIA
 
-Proyecto completo para People Analytics: predicción de attrition usando el dataset subido.
+Proyecto completo para People Analytics: predicción de attrition usando el dataset de Kaggle.
 
 ## Estructura
 ```
