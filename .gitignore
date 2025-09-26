@@ -1,5 +1,7 @@
-+ data/*.csv
-+ models/
-+ __pycache__/
-+ *.pyc
-+ .DS_Store
+__pycache__/
+*.pyc
+.env
+.venv/
+data/
+models/
+.ipynb_checkpoints/
