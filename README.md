@@ -23,7 +23,7 @@ source .venv/bin/activate   # o .\.venv\Scripts\activate en Windows PowerShell
 pip install -r requirements.txt
 ```
 
-2. Preprocesar (usa por defecto el archivo `data/HR_Employee_Attrition.csv` que ya subiste):
+2. Preprocesar (archivo `data/HR_Employee_Attrition.csv`):
 ```bash
 python src/data_prep.py --input data/HR_Employee_Attrition.csv --output data/processed.csv
 ```
